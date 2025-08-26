@@ -67,7 +67,7 @@ Clash 订阅合并工具是一款专为 Shadowsocks 用户设计的智能配置�
 
 1. 克隆项目
    ```sh
-   git clone https://github.com/leewithbass/clash_merge.git
+   git clone https://github.com/leewithbass/clash-merge-tool.git
    ```
 2. 安装依赖
    ```sh
